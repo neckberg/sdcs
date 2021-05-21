@@ -1,4 +1,4 @@
-<footer class="container-95pc-max-1140px mt-1 df-row jc-end">
+<!-- <footer class="container-95pc-max-1140px df-row jc-end">
   <input id="menu-checkbox" class="display-toggle d-none" type="checkbox">
 
   <nav class="d-none d-block-md d-block-checked">
@@ -12,4 +12,4 @@
   <label for="menu-checkbox" class='d-none-md d-block'>
     <div class="hamburger"><div></div></div>
   </label>
-<footer>
+<footer> -->
