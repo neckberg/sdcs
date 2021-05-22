@@ -20,7 +20,7 @@ require('functions/head.php');
 
   <!-- google fonts! -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Patua+One&family=Roboto&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&family=Patua+One&display=swap" rel="stylesheet">
 
   <!-- fontawesome -->
   <link rel="stylesheet" type="text/css" href="<?php echo full_url('_3rd_party/fontawesome-free-5.14.0-web/css/all.css'); ?>">

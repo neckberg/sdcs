@@ -1,11 +1,15 @@
 <main>
 
-<section id="who-we-are" style="padding:0;">
-  <div class="container-95pc-max-1140px" style="padding:0;">
+<section id="who-we-are" class="bgc-blue c-white">
+  <div class="container-95pc-max-1140px">
     <div class="df-col aa-center">
       <div class="w12-md">
-        <!-- <h2>Who We Are</h2> -->
-        <p>Sun Dance Cleaning Systems in Madison, WI, is a locally owned and operated cleaning service for commercial and residential cleaning. We take pride in what we do, and it shows in our results. Sun Dance Cleaning Systems in Madison, WI, is a locally owned and operated cleaning service for commercial and residential cleaning. We take pride in what we do, and it shows in our results. Sun Dance Cleaning Systems in Madison, WI, is a locally owned and operated cleaning service for commercial and residential cleaning. We take pride in what we do, and it shows in our results.</p>
+        <p>Welcome message from you, the owner. Sun Dance Cleaning Systems in Madison, WI, is a locally owned and operated cleaning service for commercial and residential cleaning. We take pride in what we do, and it shows in our results. Sun Dance Cleaning Systems in Madison, WI, is a locally owned and operated cleaning service for commercial and residential cleaning. We take pride in what we do, and it shows in our results. Sun Dance Cleaning Systems in Madison, WI, is a locally owned and operated cleaning service for commercial and residential cleaning.</p>
+        <br>
+        <p>We look forward to working with you.</p>
+        <br>
+        <p><strong style="font-weight:800;">Nikhil Kottege</strong></p>
+        <p>Owner, Sun Dance Cleaning Systems</p>
       </div>
     </div>
   </div>
@@ -24,7 +28,6 @@
       <div>
         <header class="df-row jc-between">
           <h2>Our Services</h2>
-          <!-- <i class="fas fa-hand-sparkles"></i> -->
         </header>
         <ul>
           <li>Commercial Cleaning Services</li>
@@ -68,10 +71,10 @@
   // $recaptcha_settings = parse_json_file('settings/recaptcha');
   // $site_key = $recaptcha_settings['site-key']
   ?>
-  <form class="contact-form w8-md" action="javascript:;" onsubmit="contact_form_submit(this)" method="POST">
+  <form class="contact-form w8-md padx-1" action="javascript:;" onsubmit="contact_form_submit(this)" method="POST">
   <!-- <form action="http://localhost:8888/Folder/manilla/email" method="POST"> -->
     <h2>Free Quote</h2>
-    <p>Contact us for a free quote or any other questions!</p>
+    <p style="padding-bottom:1rem;">Contact us for a free quote or any other questions!</p>
     <input aria-label="name" name="name" placeholder="Name" type="text" tabindex="1" required="">
     <input aria-label="business" name="business" placeholder="Business" type="text">
     <input aria-label="email" name="email" placeholder="Email" type="email" required="">
@@ -80,12 +83,6 @@
     <!-- <div class="g-recaptcha" data-sitekey="<?php // echo $site_key; ?>"></div> -->
     <input type="submit" value="Submit">
   </form>
-</section>
-
-<section class="container-95pc-max-1140px">
-</section>
-
-<section class="container-95pc-max-1140px">
 </section>
 
 </main>
