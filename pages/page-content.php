@@ -47,17 +47,17 @@
   <div class="container-95pc-max-1140px">
     <h2 class="ta-center c-white">Why Sun Dance?</h2>
     <div class="df-row jc-center h3-icon-headers c-white" style="flex-wrap:wrap;">
-      <article class="w4-md df-col jc-start ta-center">
+      <article class="w4-md df-col jc-start ta-center pady-2">
         <i class="fas fa-file-contract c-yellow"></i>
         <h3 class="c-white pady-2">Bonded and Insured<h3>
         <p class="c-white">lorem ipsum dolor sit amet</p>
       </article>
-      <article class="w4-md df-col jc-start ta-center">
+      <article class="w4-md df-col jc-start ta-center pady-2">
         <i class="fas fa-user-tie c-orange-light"></i>
         <h3 class="c-white pady-2">Experienced and Professional<h3>
         <p class="c-white">lorem ipsum dolor sit amet</p>
       </article>
-      <article class="w4-md df-col jc-start ta-center">
+      <article class="w4-md df-col jc-start ta-center pady-2">
         <i class="fas fa-calendar-check c-orange"></i>
         <h3 class="c-white pady-2">Prompt and Reliable<h3>
         <p class="c-white">lorem ipsum dolor sit amet</p>
