@@ -4,9 +4,11 @@
   <div class="container-95pc-max-1140px">
     <div class="df-col aa-center">
       <div class="w12-md">
-        <p>Welcome message from you, the owner. Sun Dance Cleaning Systems in Madison, WI, is a locally owned and operated cleaning service for commercial and residential cleaning. We take pride in what we do, and it shows in our results. Sun Dance Cleaning Systems in Madison, WI, is a locally owned and operated cleaning service for commercial and residential cleaning. We take pride in what we do, and it shows in our results. Sun Dance Cleaning Systems in Madison, WI, is a locally owned and operated cleaning service for commercial and residential cleaning.</p>
+        <p>Sun Dance Cleaning Systems is a locally owned and operated commercial cleaning company, serving Madison and the surrounding vicinities since 1991. We provide high-quality office cleaning services tailored to our clients’ needs, preferences, and special requests.</p>
         <br>
-        <p>We look forward to working with you.</p>
+        <p>We are committed to delivering the highest quality service for our customers, all without the pressures of being tied down by contracts. Every Client has direct line of communication to the owner Nikhil Kottege. This allows us to address any issues or shortcoming that may come up, along with any special requests as quickly as possible.</p>
+        <br>
+        <p>We look forward to working with you and building a strong lasting relationship for years to come. Thank you for considering Sun Dance to help you with all your cleaning needs.</p>
         <br>
         <p><strong style="font-weight:800;">Nikhil Kottege</strong></p>
         <p>Owner, Sun Dance Cleaning Systems</p>
@@ -14,7 +16,6 @@
     </div>
   </div>
 </section>
-
 
 <section id="our-services" class="">
   <div class="container-95pc-max-1140px df-row aa-center">
@@ -30,13 +31,16 @@
           <h2>Our Services</h2>
         </header>
         <ul>
-          <li>Commercial Cleaning Services</li>
-          <li>Property Management Cleaning</li>
-          <li>Property Cleaning</li>
-          <li>Apartment Cleaning</li>
-          <li>Post Construction Cleaning</li>
-          <li>Interior Car Cleaning or Car Detailing</li>
-          <li>Window Cleaning</li>
+          <li>Entrance Areas</li>
+          <li>Dusting</li>
+          <li>Vacuuming</li>
+          <li>Trash</li>
+          <li>Restroom Sanitation</li>
+          <li>Kitchen Area Cleaning</li>
+          <li>Fitness Rooms</li>
+          <li>Floors – Carpet – Tile</li>
+          <li>Cleaning Supply Order/Management</li>
+          <li>Disinfecting</li>
         </ul>
       </div>
     </div>
