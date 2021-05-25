@@ -20,9 +20,14 @@ global $page_atts;
   </div>
 </section>
 <section class="df-col aa-center" style="padding-top:2rem;">
-  <a href="<?php echo full_url(); ?>">
-    <img src="<?php echo full_url('images/sun-dance-logo.png'); ?>" alt="Sun Dance Cleaning Systems, LLC"/>
+  <a href="<?php echo full_url(); ?>" style="display:inline-block; height:300px; margin:1rem;">
+    <img src="<?php echo full_url('images/sun-dance-logo.png'); ?>" alt="Sun Dance Cleaning Systems, LLC" style="height:100%; width:auto;"/>
   </a>
+  <?php
+  // <!-- html definition of the logo text -->
+  // <p class="c-orange" style="font-size: 100px;font-weight: 600; font-family:'Open Sans', sans-serif;">SUN DANCE</p>
+  // <p class="c-orange" style="font-size: 48px; font-weight: 400; font-family:'Open Sans', sans-serif;">CLEANING SYSTEMS, LLC</p>
+  ?>
 </section>
 
 </header>
